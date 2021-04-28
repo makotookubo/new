@@ -3833,9 +3833,9 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.12499999
+    x: 0.2024353
     y: 0
-    width: 0.75
+    width: 0.5951294
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -6153,7 +6153,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f928fbcd84d4af4aa44fbbe7f8286ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiMessageWindowManager: {fileID: 0}
+  uiMessageWindowManager: {fileID: 581645343}
   onReset:
     m_PersistentCalls:
       m_Calls: []
@@ -6972,8 +6972,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -200}
-  m_SizeDelta: {x: 300, y: 60}
+  m_AnchoredPosition: {x: -386, y: -686}
+  m_SizeDelta: {x: 300, y: 270.79697}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &541020844
 MonoBehaviour:
@@ -11352,9 +11352,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -100}
-  m_SizeDelta: {x: 300, y: 60}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -236, y: -1083.4}
+  m_SizeDelta: {x: 339.19775, y: 73.02064}
+  m_Pivot: {x: 0.000000067055225, y: -5.326906}
 --- !u!114 &890588583
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -15284,7 +15284,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 200}
+  m_AnchoredPosition: {x: 0, y: -30}
   m_SizeDelta: {x: 300, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1168317815
@@ -19194,9 +19194,9 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.12499999
+    x: 0.2024353
     y: 0
-    width: 0.75
+    width: 0.5951294
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -20416,7 +20416,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 100}
+  m_AnchoredPosition: {x: 0, y: -137}
   m_SizeDelta: {x: 300, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1660411218
@@ -21566,7 +21566,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ce6253cfba0710b47914dbf81aed7f55, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 903288d89a4599d46b6c78da0f9ff987, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21669,7 +21669,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -235}
   m_SizeDelta: {x: 300, y: 60}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1744874855
@@ -23448,7 +23448,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22400004, guid: c803f264865f31240aa65dd03913c6df, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 22400004, guid: c803f264865f31240aa65dd03913c6df, type: 3}
       propertyPath: m_AnchoredPosition.y

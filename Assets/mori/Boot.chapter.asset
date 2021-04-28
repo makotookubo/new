@@ -43,9 +43,121 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5224\u5B98"
+      - 
+      - 
+      - 
+      - -90
+      - 
+      - 
+      - .2
+      - 
+      - Alchemist_Man.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u72E9\u4EBA"
+      - "\u72E9\u4EBA"
+      - "\u901A\u5E38"
+      - 
+      - -90
+      - 
+      - 
+      - .2
+      - 
+      - Archer_Man.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u4FEE\u9053\u5973"
+      - 
+      - 
+      - 
+      - -90
+      - 
+      - 
+      - .2
+      - 
+      - Clergyman_Woman.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u51E6\u5211\u4EBA"
+      - 
+      - 
+      - 
+      - -90
+      - 
+      - 
+      - .2
+      - 
+      - Robber_Man.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u68EE\u756A"
+      - 
+      - 
+      - 
+      - -90
+      - 
+      - 
+      - .2
+      - 
+      - Necromancer_Man.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u9662\u9577"
+      - 
+      - 
+      - 
+      - -90
+      - 
+      - 
+      - .2
+      - 
+      - Clergyman_Man.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u9B54\u5973"
+      - 
+      - 
+      - 
+      - -90
+      - 
+      - 
+      - .2
+      - 
+      - Sage_Woman.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/mori/mori.xls:Character
     type: 1
-    textLength: 154
+    textLength: 323
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -71,9 +183,339 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u30C0\u30A4\u30CB\u30F3\u30B0"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - "\u9ED2\u90E8\u5C4B.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u68EE\u671D"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - 1_forest_a.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u68EE\u663C"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - morihiru.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u68EE\u591C"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - moriyoru.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u8857"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - mati.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u9152\u5834"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 4
+      - 
+      - 023yado5-1024x768.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u7A7A"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 10
+      - 
+      - 078_a.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u6C34\u8ECA"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 5
+      - 
+      - fantasy02_day_320x240 by Karen Roe.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u4FEE\u9053\u9662"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 10
+      - 
+      - church01_evening_106x80 by csouza_79.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u8EAB\u5ECA"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 4
+      - 
+      - church05_day_320x240 by Michael Caven.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u5185\u9663"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - "\u30CB\u30EF\u30C8\u30B3.jpg"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u90E8\u5C4B"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 4
+      - 
+      - european_in04_day_320x240 by vastateparksstaff.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - "\u7A7A\u591C"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 1
+      - 
+      - 118.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - "\u9ED2\u90E8\u5C4B\u6249"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 09l.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - "\u9ED2\u90E8\u5C4B\u6249\u958B"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 09l2.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - "\u5149"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 11l2.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - "\u30A8\u30F3\u30C9"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 01.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 22
+      debugIndex: 22
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 23
+      debugIndex: 23
+      strings:
+      - "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\uFF11"
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 01.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 24
+      debugIndex: 24
+      strings:
+      - "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\uFF12"
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 02.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 25
+      debugIndex: 25
+      strings:
+      - "\u30A8\u30F3\u30C7\u30A3\u30F3\u30B0\uFF13"
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 03.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/mori/mori.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 551
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -114,9 +556,42 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u30AD\u30E3\u30E9\u4E2D\u592E"
+      - Character
+      - 0
+      - -90
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u30AD\u30E3\u30E9\u5DE6"
+      - Character
+      - -250
+      - -90
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u30AD\u30E3\u30E9\u53F3"
+      - Character
+      - 250
+      - -90
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/mori/mori.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 175
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -265,9 +740,125 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - '*VortexAnimationIn'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - Time
+      - 0
+      - .1
+      - .2
+      - .3
+      - .4
+      - .5
+      - .6
+      - .7
+      - .8
+      - .9
+      - 1
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - Utage.Vortex.angle
+      - 0
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 720
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - '*VortexAnimationOut'
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - Time
+      - 0
+      - .1
+      - .2
+      - .3
+      - .4
+      - .5
+      - .6
+      - .7
+      - .8
+      - .9
+      - 1
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - Utage.Vortex.angle
+      - 720
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 0
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/mori/mori.xls:Animation
     type: 1
-    textLength: 93
+    textLength: 222
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -283,9 +874,169 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u767D\u3044\u90E8\u5C4B"
+      - 
+      - Bgm
+      - "\u767D\u3044\u90E8\u5C4B.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u68EE\u663C"
+      - 
+      - Bgm
+      - "\u68EE\u663C.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u9ED2\u3044\u90E8\u5C4B"
+      - 
+      - Bgm
+      - "\u9ED2\u90E8\u5C4B.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u68EE\u671D"
+      - 
+      - Bgm
+      - "\u68EE\u671D.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u8B0E"
+      - 
+      - Bgm
+      - "\u8B0E.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u8857"
+      - 
+      - Bgm
+      - "\u8857.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u96D1\u8AC7"
+      - 
+      - Bgm
+      - "\u96D1\u8AC7.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u96D1\u8AC7\u5F8C"
+      - 
+      - Bgm
+      - "\u96D1\u8AC7\u5F8C.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u518D\u958B"
+      - 
+      - Bgm
+      - "\u518D\u958B.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u6A39\u6728\u7BA1\u7406\u5B98"
+      - 
+      - Bgm
+      - "\u6A39\u6728\u7BA1\u7406\u5B98.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u9662\u9577"
+      - 
+      - Bgm
+      - "\u9662\u9577\uFF11.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u4FEE\u9053\u5973"
+      - 
+      - Bgm
+      - "\u4FEE\u9053\u5973.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - "\u5185\u9663"
+      - 
+      - Bgm
+      - "\u5185\u9663.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - "\u9B54\u5973"
+      - 
+      - Bgm
+      - "\u9B54\u5973.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - "\u30A8\u30F3\u30C9"
+      - 
+      - Bgm
+      - "\u30A8\u30F3\u30C9.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - "\u6700\u5F8C"
+      - 
+      - Bgm
+      - "\u6700\u5F8C.mp3"
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/mori/mori.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 229
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:

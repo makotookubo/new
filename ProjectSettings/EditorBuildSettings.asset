@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/mori/mori.unity
+    guid: 049379c7b6cb34d40b00f45b03af0e0f
   m_configObjects: {}

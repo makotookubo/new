@@ -32805,7 +32805,7 @@ MonoBehaviour:
       - 
       - 1
       - 
-      - "\u9ED2\u90E8\u5C4B.jpg"
+      - kuroheya.jpg
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -32955,7 +32955,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u30CB\u30EF\u30C8\u30B3.jpg"
+      - niwatoko.jpg
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33126,7 +33126,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/mori/mori.xls:Texture
     type: 1
-    textLength: 551
+    textLength: 560
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -33491,7 +33491,7 @@ MonoBehaviour:
       - "\u767D\u3044\u90E8\u5C4B"
       - 
       - Bgm
-      - "\u767D\u3044\u90E8\u5C4B.mp3"
+      - siroiheya.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33501,7 +33501,7 @@ MonoBehaviour:
       - "\u68EE\u663C"
       - 
       - Bgm
-      - "\u68EE\u663C.mp3"
+      - morihiru.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33511,7 +33511,7 @@ MonoBehaviour:
       - "\u9ED2\u3044\u90E8\u5C4B"
       - 
       - Bgm
-      - "\u9ED2\u90E8\u5C4B.mp3"
+      - kuroheya.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33521,7 +33521,7 @@ MonoBehaviour:
       - "\u68EE\u671D"
       - 
       - Bgm
-      - "\u68EE\u671D.mp3"
+      - moriasa.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33531,7 +33531,7 @@ MonoBehaviour:
       - "\u8B0E"
       - 
       - Bgm
-      - "\u8B0E.mp3"
+      - nazo.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33541,7 +33541,7 @@ MonoBehaviour:
       - "\u8857"
       - 
       - Bgm
-      - "\u8857.mp3"
+      - mati.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33551,7 +33551,7 @@ MonoBehaviour:
       - "\u96D1\u8AC7"
       - 
       - Bgm
-      - "\u96D1\u8AC7.mp3"
+      - zatudan.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33561,7 +33561,7 @@ MonoBehaviour:
       - "\u96D1\u8AC7\u5F8C"
       - 
       - Bgm
-      - "\u96D1\u8AC7\u5F8C.mp3"
+      - zatudango.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33571,7 +33571,7 @@ MonoBehaviour:
       - "\u518D\u958B"
       - 
       - Bgm
-      - "\u518D\u958B.mp3"
+      - saikai.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33581,7 +33581,7 @@ MonoBehaviour:
       - "\u6A39\u6728\u7BA1\u7406\u5B98"
       - 
       - Bgm
-      - "\u6A39\u6728\u7BA1\u7406\u5B98.mp3"
+      - jumoku.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33591,7 +33591,7 @@ MonoBehaviour:
       - "\u9662\u9577"
       - 
       - Bgm
-      - "\u9662\u9577\uFF11.mp3"
+      - intyou.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33601,7 +33601,7 @@ MonoBehaviour:
       - "\u4FEE\u9053\u5973"
       - 
       - Bgm
-      - "\u4FEE\u9053\u5973.mp3"
+      - syuudou.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33611,7 +33611,7 @@ MonoBehaviour:
       - "\u5185\u9663"
       - 
       - Bgm
-      - "\u5185\u9663.mp3"
+      - naijin.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33621,7 +33621,7 @@ MonoBehaviour:
       - "\u9B54\u5973"
       - 
       - Bgm
-      - "\u9B54\u5973.mp3"
+      - majo.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33631,7 +33631,7 @@ MonoBehaviour:
       - "\u30A8\u30F3\u30C9"
       - 
       - Bgm
-      - "\u30A8\u30F3\u30C9.mp3"
+      - end.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -33641,13 +33641,13 @@ MonoBehaviour:
       - "\u6700\u5F8C"
       - 
       - Bgm
-      - "\u6700\u5F8C.mp3"
+      - saigo.mp3
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/mori/mori.xls:Sound
     type: 1
-    textLength: 229
+    textLength: 288
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
